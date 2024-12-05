@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on, project We Hike! Checkout the link to my live site to check its progress @ https://wehikenewzealand.com/
+- 🌱 I’m currently learning, to incorporate geoJSON data into my project and display it on my Leaflet.js map.
+
+- ⚡ Fun fact: When I'm not coding I'm either swimming or reading 😄
 <!--
 **Lucy-Mckenzie/Lucy-Mckenzie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
