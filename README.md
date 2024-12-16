@@ -22,6 +22,6 @@ MyCelium is a game where players grow mushrooms from spores and sell them at the
 - Linkedin: https://www.linkedin.com/in/lucy-mckenzie-a08781317/
 - Email: Lucymckenzie62@gmail.com
 
-🌱 I’m currently, learning to incorporate geoJSON data into my project and display it on my Leaflet.js map and Next.js.
+🌱 I’m currently learning Next.js and Motion.Dev - converting a companies website from Wordpress to React.
 
 
