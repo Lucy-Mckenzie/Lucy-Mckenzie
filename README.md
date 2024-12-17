@@ -11,6 +11,8 @@ We Hike is your go-to app for all things hiking. It provides detailed informatio
 
 MyCelium is a game where players grow mushrooms from spores and sell them at the market for profit. Developed over a week with a talented team of six, the game offers an engaging experience as players watch their mushrooms progress through three distinct growth stages. We built this project using React, Phaser.js, TypeScript, and Tailwind CSS. MyCelium highlights my collaborative skills and ability to deliver a fully functional application under tight deadlines. Find this game at https://my-celium.devacademy.nz/
 
+Suncoast Patios, a family company advertising outdoor building products. The website is currently developed with Wordpress but its a little outdated. I am currently at the designing stage, learning Next.js for SEO and server side rendering. 
+
 ## Tech Stack
 - Front-end: HTML5, CSS3, Tailwind CSS, React, Typescript, Leaflet.js, Phaser.js
 - Back-end: Node.js, Express
