@@ -15,8 +15,8 @@ Suncoast Patios, a family company advertising outdoor building products. The web
 
 ## Tech Stack
 - Front-end: HTML5, CSS3, Tailwind CSS, React, Typescript, Leaflet.js, Phaser.js
-- Back-end: Node.js, Express
-- Tools: Git, Github, Vite, ESLint, Pretier, Vitest
+- Back-end: Node.js, Express, Next.js
+- Tools: Git, Github, Vite, ESLint, Pretier, Vitest, Heroku, Docker, Dokku
 - Databases, Apis: RESTful API, Knex, SQLite3, SQL, AUTH0
 
 ## Contact 
@@ -24,6 +24,6 @@ Suncoast Patios, a family company advertising outdoor building products. The web
 - Linkedin: https://www.linkedin.com/in/lucy-mckenzie-a08781317/
 - Email: Lucymckenzie62@gmail.com
 
-🌱 I’m currently learning Next.js and Motion.Dev - converting a companies website from Wordpress to React.
+🌱 I’m currently learning Next.js, AWS, and Motion.Dev - converting a companies website from Wordpress to React.
 
 
