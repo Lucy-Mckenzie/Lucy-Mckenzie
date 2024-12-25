@@ -1,5 +1,5 @@
 # Hi I'm Lucy 👋
-I'm a creative Software Developer specializing in React, Typescript, and Node.js. I currently live in New Zealand but will migrate to Australia, my home country, in early January. I love to creating intuitive, efficient, and minimalistic applications. 
+I'm a creative Software Developer with a relentless drive to innovate and design minimalistic applications. I currently live in New Zealand but will migrate for the right opportunity. 
 
 ## About me 🌱
 Recently I completed a 17-week intensive boot camp at Dev Academy, here I developed a strong understanding of modern technologies, working in a real-world environment, and Agile methodologies. I'm driven by my excitement of creating, problem-solving and designing, fueled by my intuitive approach to tackling challenges.
