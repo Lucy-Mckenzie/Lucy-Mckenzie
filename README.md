@@ -29,7 +29,7 @@ A small company advertising outdoor building products. A solo project I'm curren
 ## Tech Stack
 - Front-end: HTML5, CSS3, Tailwind CSS, React, Typescript, Leaflet.js, Phaser.js
 - Back-end: Node.js, Express, Next.js
-- Tools: Git, Github, Vite, ESLint, Pretier, Vitest, Heroku, Docker, Dokku
+- Tools: Git, Github, Vite, Vitest, Heroku, Docker, Dokku
 - Databases, Apis: RESTful API, Knex, SQLite3, SQL, AUTH0
 
 ## Contact 
