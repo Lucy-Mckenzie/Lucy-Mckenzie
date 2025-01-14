@@ -21,7 +21,7 @@ A game where players grow mushrooms from spores and sell them at the market for 
 - Find this game at https://my-celium.devacademy.nz/
 
 # Suncoast Patios
-A small company advertising outdoor building products. A solo project I'm currently building, with regular meeting with the owner and product manager.
+A small company advertising outdoor building products. A solo project I'm currently building, with regular meetings with the owner and product manager.
 
 - Designed with a prototype on Figma, drove the key points into the landing page with: Hero, call to action, products, building trust, and answering questions.
 - Using Next.js, React, Typescript, Tailwind Css.
@@ -29,7 +29,7 @@ A small company advertising outdoor building products. A solo project I'm curren
 ## Tech Stack
 - Front-end: HTML5, CSS3, Tailwind CSS, React, Typescript, Leaflet.js, Phaser.js
 - Back-end: Node.js, Express, Next.js
-- Tools: Git, Github, Vite, Vitest, Heroku, Docker, Dokku
+- Tools: Git, Github, Vite, Vitest, Heroku, Docker, Dokku, Aws
 - Databases, Apis: RESTful API, Knex, SQLite3, SQL, AUTH0
 
 ## Contact 
