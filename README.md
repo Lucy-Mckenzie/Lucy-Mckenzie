@@ -7,6 +7,12 @@ Recently I completed a 17-week intensive boot camp at Dev Academy, here I develo
 When I’m not coding, you’ll find me reading, swimming, or enjoying time with family and friends. I’m a social butterfly at heart, driven by a passion for expanding my knowledge.
 
 ## Projects 🔭
+# Suncoast Patios
+A small company advertising outdoor building products. A solo project I'm currently building, with regular meetings with the owner and product manager.
+
+- Designed with a prototype on Figma, drove the key points into the landing page with: Hero, call to action, products, building trust, and answering questions.
+- Using Next.js, React, Typescript, Tailwind Css.
+  
 # We Hike
 Provides detailed information on New Zealand's Great Walks, as well as up-to-date hike and hut details sourced directly from the Department of Conservation API. 
 
@@ -19,12 +25,6 @@ A game where players grow mushrooms from spores and sell them at the market for 
 
 - We built this project using React, Phaser.js, TypeScript, and Tailwind CSS.
 - Find this game at https://my-celium.devacademy.nz/
-
-# Suncoast Patios
-A small company advertising outdoor building products. A solo project I'm currently building, with regular meetings with the owner and product manager.
-
-- Designed with a prototype on Figma, drove the key points into the landing page with: Hero, call to action, products, building trust, and answering questions.
-- Using Next.js, React, Typescript, Tailwind Css.
 
 ## Tech Stack
 - Front-end: HTML5, CSS3, Tailwind CSS, React, Typescript, Leaflet.js, Phaser.js
