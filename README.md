@@ -11,7 +11,9 @@ When I’m not coding, you’ll find me reading, swimming, or enjoying time with
 A small company advertising outdoor building products. A solo project I'm currently building, with regular meetings with the owner and product manager.
 
 - Designed with a prototype on Figma, drove the key points into the landing page with: Hero, call to action, products, building trust, and answering questions.
-- Using Next.js, React, Typescript, Tailwind Css.
+- Using Next.js, React, Typescript, Tailwind Css, hCaptcha, Dasiyui, Mailjet.
+
+- This project is currently being tested and refactored to reduce repeated code. Check it out: https://suncoast-patios-4ecd1fa1b515.herokuapp.com/
   
 # We Hike
 Provides detailed information on New Zealand's Great Walks, as well as up-to-date hike and hut details sourced directly from the Department of Conservation API. 
