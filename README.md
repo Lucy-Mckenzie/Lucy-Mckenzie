@@ -39,6 +39,6 @@ A game where players grow mushrooms from spores and sell them at the market for 
 - Linkedin: https://www.linkedin.com/in/lucy-mckenzie-a08781317/
 - Email: Lucymckenzie62@gmail.com
 
-🌱 I’m currently learning Next.js, AWS, and Motion.Dev - converting a companies website from Wordpress to React.
+🌱 I’m currently doing a placement with an IPAS company, learning AWS, Docker, unit testing, and data structures and algorithms. Making connectors for APIs.
 
 
