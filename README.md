@@ -13,20 +13,20 @@ A small company advertising outdoor building products. A solo project, with regu
 - Designed with a prototype on Figma, drove the key points into the landing page with: Hero, call to action, products, building trust, and answering questions.
 - Using Next.js, React, Typescript, Tailwind Css, hCaptcha, Dasiyui, Mailjet.
 
-- This project is currently being tested and refactored to reduce repeated code. Check it out: https://suncoast-patios-4ecd1fa1b515.herokuapp.com/
+- This project is currently being tested and refactored to reduce repeated code. Check it out: [here](https://suncoastpatios.co.nz/).
   
 ## We Hike
 Provides detailed information on New Zealand's Great Walks, as well as up-to-date hike and hut details sourced directly from the Department of Conservation API. 
 
 - Built with React, Leaflet.js, TypeScript, Node.js, DOC API, and Tailwind CSS. 
 - We Hike is a large-scale project showcasing the technologies I mastered during boot camp.
-- This is an ongoing project—check out my progress so far at https://www.wehikenewzealand.com/.
+- This is an ongoing project—check out my progress so far at [we hike](https://www.wehikenewzealand.com/).
 
 ## myCelium 
 A game where players grow mushrooms from spores and sell them at the market for profit. Developed over a week with a talented team of six, the game offers an engaging experience as players watch their mushrooms progress through three distinct growth stages. 
 
 - We built this project using React, Phaser.js, TypeScript, and Tailwind CSS.
-- Find this game at https://my-celium.devacademy.nz/
+- Find this game [here](https://my-celium.devacademy.nz/).
 
 # Tech Stack
 - Front-end: HTML5, CSS3, Tailwind CSS, React, Typescript, Leaflet.js, Phaser.js
@@ -35,8 +35,8 @@ A game where players grow mushrooms from spores and sell them at the market for 
 - Databases, Apis: RESTful API, Knex, SQLite3, SQL, AUTH0
 
 # Contact 
-- Portfolio: https://lucymckenziedev.com/
-- Linkedin: https://www.linkedin.com/in/lucy-mckenzie-a08781317/
+- [Portfolio](https://lucymckenziedev.com/)
+- [Linkedin](https://www.linkedin.com/in/lucy-mckenzie-a08781317/)
 - Email: Lucymckenzie62@gmail.com
 
 🌱 I’m currently doing a placement with an IPAS company, learning AWS, Docker, unit testing, data structures and algorithms. Making connectors for APIs.
