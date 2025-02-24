@@ -29,9 +29,9 @@ A game where players grow mushrooms from spores and sell them at the market for 
 - Find this game [here](https://my-celium.devacademy.nz/).
 
 # Tech Stack
-- Front-end: HTML5, CSS3, Tailwind CSS, React, Typescript, Leaflet.js, Phaser.js
-- Back-end: Node.js, Express, Next.js
-- Tools: Git, Github, Vite, Vitest, Heroku, Docker, Dokku, Aws
+- Front-end: HTML5, CSS3, Tailwind CSS, React, Typescript, Next.js
+- Back-end: Node.js, Express
+- Tools: Git, Vite, Vitest, Heroku, Docker, Dokku, Mocha
 - Databases, Apis: RESTful API, Knex, SQLite3, SQL, AUTH0
 
 # Contact 
@@ -39,6 +39,6 @@ A game where players grow mushrooms from spores and sell them at the market for 
 - [Linkedin](https://www.linkedin.com/in/lucy-mckenzie-a08781317/)
 - Email: Lucymckenzie62@gmail.com
 
-🌱 I’m currently doing a placement with an IPAS company, learning AWS, Docker, unit testing, data structures and algorithms. Making connectors for APIs.
+🌱 I’m currently doing a placement with ApiOpenStudio, learning AWS, Docker, unit testing, data structures and algorithms. Making connectors for APIs.
 
 
