@@ -1,10 +1,4 @@
 # Hi I'm Lucy 👋
-I'm a creative Software Developer with a drive to automate processes and design minimalistic applications. I currently live in New Zealand but will migrate for the right opportunity. 
-
-# About me 🌱
-Recently I completed a 17-week intensive boot camp at Dev Academy, here I developed a strong understanding of modern technologies, working in a real-world environment, using Agile methodologies. I'm driven by my excitement of creating, problem-solving, and automating tasks to save time.
-
-When I’m not coding, you’ll find me reading, swimming, or enjoying time with family and friends. I’m a social butterfly at heart, driven by a passion for expanding my knowledge.
 
 # Projects 🔭
 ## Suncoast Patios
