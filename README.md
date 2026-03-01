@@ -14,13 +14,12 @@ Provides detailed information on New Zealand's Great Walks, as well as up-to-dat
 
 - Built with React, Leaflet.js, TypeScript, Node.js, DOC API, and Tailwind CSS. 
 - We Hike is a large-scale project showcasing the technologies I mastered during boot camp.
-- This is an ongoing project—check out my progress so far at [we hike](https://www.wehikenewzealand.com/).
+- This is an ongoing project—check out my progress so far at [we hike](https://we-hike.vercel.app/).
 
 # Contact 
-- [Portfolio](https://lucymckenziedev.com/)
 - [Linkedin](https://www.linkedin.com/in/lucy-mckenzie-a08781317/)
 - Email: Lucymckenzie62@gmail.com
 
-🌱 I’m currently doing a placement with ApiOpenStudio, learning AWS, Docker, unit testing, data structures and algorithms, making connectors for APIs. I am also developing and growing my Geographical information skills and documenting my journey on [we hike](https://www.wehikenewzealand.com/).
+🌱 I'm currently developing and growing my Geographical information skills at Flinders University and documenting my journey on [we hike](https://we-hike.vercel.app/).
 
 
